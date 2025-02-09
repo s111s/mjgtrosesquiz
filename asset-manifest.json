@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mjgtrosesquiz/static/css/main.491861a6.css",
-    "main.js": "/mjgtrosesquiz/static/js/main.6f1ace51.js",
+    "main.js": "/mjgtrosesquiz/static/js/main.eab9cf7c.js",
     "static/js/453.e52d0aab.chunk.js": "/mjgtrosesquiz/static/js/453.e52d0aab.chunk.js",
     "static/media/matcha-latte.png": "/mjgtrosesquiz/static/media/matcha-latte.ef772f726bfbfd680007.png",
     "static/media/golden-milk.png": "/mjgtrosesquiz/static/media/golden-milk.a513b26fd85d4e1e91ce.png",
@@ -13,11 +13,11 @@
     "static/media/charRed.png": "/mjgtrosesquiz/static/media/charRed.d5df67319c4abeb74d5b.png",
     "index.html": "/mjgtrosesquiz/index.html",
     "main.491861a6.css.map": "/mjgtrosesquiz/static/css/main.491861a6.css.map",
-    "main.6f1ace51.js.map": "/mjgtrosesquiz/static/js/main.6f1ace51.js.map",
+    "main.eab9cf7c.js.map": "/mjgtrosesquiz/static/js/main.eab9cf7c.js.map",
     "453.e52d0aab.chunk.js.map": "/mjgtrosesquiz/static/js/453.e52d0aab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.491861a6.css",
-    "static/js/main.6f1ace51.js"
+    "static/js/main.eab9cf7c.js"
   ]
 }
