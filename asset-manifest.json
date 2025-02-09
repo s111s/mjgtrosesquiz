@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mjgtrosesquiz/static/css/main.491861a6.css",
-    "main.js": "/mjgtrosesquiz/static/js/main.14eb5cd1.js",
+    "main.js": "/mjgtrosesquiz/static/js/main.6f1ace51.js",
     "static/js/453.e52d0aab.chunk.js": "/mjgtrosesquiz/static/js/453.e52d0aab.chunk.js",
     "static/media/matcha-latte.png": "/mjgtrosesquiz/static/media/matcha-latte.ef772f726bfbfd680007.png",
     "static/media/golden-milk.png": "/mjgtrosesquiz/static/media/golden-milk.a513b26fd85d4e1e91ce.png",
@@ -10,13 +10,14 @@
     "static/media/hot-chocolate.png": "/mjgtrosesquiz/static/media/hot-chocolate.08d896ee42e0871c565c.png",
     "static/media/peppermint-mocha.png": "/mjgtrosesquiz/static/media/peppermint-mocha.22488d037864551f04e9.png",
     "static/media/main-logo.png": "/mjgtrosesquiz/static/media/main-logo.697bc3326617f9197aa0.png",
+    "static/media/charRed.png": "/mjgtrosesquiz/static/media/charRed.d5df67319c4abeb74d5b.png",
     "index.html": "/mjgtrosesquiz/index.html",
     "main.491861a6.css.map": "/mjgtrosesquiz/static/css/main.491861a6.css.map",
-    "main.14eb5cd1.js.map": "/mjgtrosesquiz/static/js/main.14eb5cd1.js.map",
+    "main.6f1ace51.js.map": "/mjgtrosesquiz/static/js/main.6f1ace51.js.map",
     "453.e52d0aab.chunk.js.map": "/mjgtrosesquiz/static/js/453.e52d0aab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.491861a6.css",
-    "static/js/main.14eb5cd1.js"
+    "static/js/main.6f1ace51.js"
   ]
 }
