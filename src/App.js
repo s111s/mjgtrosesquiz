@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import Quiz from "./components/Quiz";
-import theCabin from './images/the-cabin.png';
+import mainLogo from './images/main-logo.png';
 import "./App.css"
 
 const App = () => {
@@ -15,15 +15,14 @@ const App = () => {
       <div className="container">
         {showStartPage ? (
           <div className="start-page">
-            <img src={theCabin} alt="The Cozy Cabin Cafe"/>
+            <img src={mainLogo} alt="My Confession is You"/>
 
-            <h1>Welcome to the Cozy Cabin Cafe!</h1>
+            <h1>กุหลาบสีไหนที่ใช่เธอ</h1>
             
             <p>
-              Season’s greetings, winter traveler!
-              Sit back and relax while we brew something special for you!
+              ค้นหาสีของดอกกุหลาบที่เหมาะกับคุณ
             </p>
-            <button onClick={handleStartQuiz}>Start Quiz</button>
+            <button onClick={handleStartQuiz}>เริ่มกันเลย</button>
           </div>
         ) : (
           <Quiz />

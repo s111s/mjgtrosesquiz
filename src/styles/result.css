@@ -14,7 +14,7 @@
     justify-content: center;
 
     width: 100%;
-    border: 2px dashed #172A3A;
+    border: 2px dashed #a23a61;
     box-sizing: border-box;
 }
 
@@ -37,7 +37,7 @@
     padding-top: calc(100vw * 0.02);
     padding-bottom: calc(100vw * 0.02);
 
-    background-color: #172A3A;
+    background-color: #a23a61;
 }
 
 .resultHeader h3 {
@@ -99,7 +99,7 @@
 
     box-sizing: border-box;
 
-    border-top: 2px dashed #172A3A;
+    border-top: 2px dashed #a23a61;
 }
 
 .pairLeft {
@@ -125,7 +125,7 @@
     margin: 0 0 0 0;
     padding: 0 0 0 0;
     text-align: center;
-    color: #172A3A;
+    color: #a23a61;
     font-weight: 400;
 }
 
@@ -176,7 +176,7 @@
     padding-top: calc(100vw * 0.03);
     padding-bottom: calc(100vw * 0.03);
 
-    background-color: #172A3A;
+    background-color: #a23a61;
 }
 
 .attribution a {
